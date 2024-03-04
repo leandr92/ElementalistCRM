@@ -1,3 +1,5 @@
+# 1С: Элемент
+
 Канал сообщества: https://t.me/+lg_Y8mHAOGZiZmQy
 
 
