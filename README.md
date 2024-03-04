@@ -13,6 +13,5 @@ https://1cmycloud.com/console/help/docs/5.x/
 2. Создано приложение ElementalistCRM
 3. Создан репозиторий https://github.com/leandr92/ElementalistCRM/tree/main
 4. Приложение https://app-148080.1cmycloud.com/applications/Elementalist-project-dev
-5. Падение по причине Out of Memory
-
+5. Падение по причине Out of Memory при работе с системой контроля версий. Синхронизация убивает редактор кода
 6. Есть консоль запросов с возможностью запускать запросы от имени любого пользователя
