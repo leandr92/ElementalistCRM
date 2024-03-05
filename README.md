@@ -1,5 +1,7 @@
 # 1С: Элемент
 
+Сайт Элемента https://1cmycloud.com/console?state=route%3Dapps
+
 Канал сообщества: https://t.me/+lg_Y8mHAOGZiZmQy
 
 
